@@ -1,0 +1,10 @@
+[paintings]
+• Demon by https://www.artstation.com/artwork/5O0oJ (Blaz Porenta)
+
+[sounds]
+• Evil Laugh by https://freesound.org/people/The%20Baron/sounds/98382/ (The Baron)
+• MSfxP5 - 65_8 https://freesound.org/people/Erokia/sounds/500062/ (Erokia)
+• Chiptune Kick 1 https://freesound.org/people/IanStarGem/sounds/341814/ (IanStarGem)
+
+[code]
+• sacred_game22 by https://github.com/911992/sacred_game22 (911992)
