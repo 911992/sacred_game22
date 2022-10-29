@@ -369,7 +369,8 @@ initial version: 0.1(Oct 27, 2022)
 	  }
 	  function gameover() {
 		GV_last_click_time = 0;
-		alert("Game Over! You failed! Try harder please.");
+		GV_score = 0;
+		alert("Game Over! You failed! Try harder please(you have to win).");
 		pre_newgame_mode();
 	  }
 	  document.getElementById("start_btn").onclick = function () {
